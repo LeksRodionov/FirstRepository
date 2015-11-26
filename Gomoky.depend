@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1448493802 source:/home/leks/Рабочий стол/Разработка/CodeBlock/Gomoky/main.cpp
+	<stdio.h>
+	"Model.h"
+	"View.h"
+
+1448494996 /home/leks/Рабочий стол/Разработка/CodeBlock/Gomoky/Model.h
+
+1448494847 /home/leks/Рабочий стол/Разработка/CodeBlock/Gomoky/View.h
+	"Model.h"
+
+1448494793 source:/home/leks/Рабочий стол/Разработка/CodeBlock/Gomoky/Model.cpp
+	<stdio.h>
+	"Model.h"
+
+1448491298 source:/home/leks/Рабочий стол/Разработка/CodeBlock/Gomoky/View.cpp
+	<stdio.h>
+	"View.h"
+
